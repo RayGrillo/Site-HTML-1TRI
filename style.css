@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cab {
+    background-color: #0D1047;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+.logocab {
+    max-width: 200px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+.itmtopcab {
+    display: inline-block;
+    margin: 30% 20px;
+    font-size: 20px;
+}
