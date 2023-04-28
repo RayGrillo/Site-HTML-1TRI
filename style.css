@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
 .cab {
     background-color: #0D1047;
     color: white;
@@ -12,8 +16,8 @@
 }
 
 .logocab {
-    max-width: 200px;
-    max-height: 150px;
+    max-width: 150px;
+    max-height: 100px;
     width: auto;
     height: auto;
 }
@@ -22,4 +26,25 @@
     display: inline-block;
     margin: 30% 20px;
     font-size: 20px;
+}
+
+.fav {
+    background-image: linear-gradient(#0D1047, #125587);
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 24px 0;
+}
+
+.favconte {
+    width: 35%;
+}
+
+.favti {
+    padding: 24px;
+}
+
+.imgfavp {
+    width: 25%;
 }
