@@ -48,3 +48,66 @@ body {
 .imgfavp {
     width: 25%;
 }
+
+.gamefav {
+    background-color: #CED1FE;
+    padding: 50px;
+}
+
+.gamefavti {
+    text-align: center;
+    padding: 25px 0;
+}
+
+.favtodos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
+.stardew {
+    text-align: center;
+}
+
+.stardewlogo {
+    width: 120px;
+}
+
+.staricons {
+    width: 30px;
+    padding: 0 5px;
+}
+
+.undertale {
+    text-align: center;
+}
+
+.underlogo {
+    width: 120px;
+}
+
+.undericon {
+    width: 30px;
+    padding: 0 5px;
+}
+
+.gris {
+    text-align: center;
+}
+
+.grislogo {
+    width: 120px;
+}
+
+.grisicon {
+    width: 30px;
+    padding: 0 5px;
+}
+
+.rod {
+    background-color: black;
+    text-align: center;
+}
+
+.imgrod {
+    width: 120px;
+}
