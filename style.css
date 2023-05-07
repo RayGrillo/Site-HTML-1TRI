@@ -28,7 +28,12 @@ body {
     font-size: 20px;
 }
 
-.fav {
+.itmtopcab a {
+    text-decoration: none; 
+    color: white;
+}
+
+#fav {
     background-image: linear-gradient(#0D1047, #125587);
     color: white;
     display: flex;
@@ -49,7 +54,7 @@ body {
     width: 25%;
 }
 
-.gamefav {
+#gamefav {
     background-color: #CED1FE;
     padding: 50px;
 }
